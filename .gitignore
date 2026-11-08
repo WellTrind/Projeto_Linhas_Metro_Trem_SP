@@ -1,0 +1,3 @@
+venv/
+# ou, se o seu ambiente usa ponto:
+.venv/
