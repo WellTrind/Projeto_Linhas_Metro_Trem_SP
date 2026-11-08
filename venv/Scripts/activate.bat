@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set "VIRTUAL_ENV=C:\Users\wellt\OneDrive\Documentos\Projetos Git\Python_Linhas_Metro_Trem\venv"
+set "VIRTUAL_ENV=C:\Users\Wellington Pereira\Documents\UFABC\projeto_linhas_trem_metro\venv"
 
 if not defined PROMPT set PROMPT=$P$G
 
