@@ -36,6 +36,7 @@ O código realiza as seguintes etapas:
 2. Instale as dependências necessárias (caso ainda não tenha):
    ```bash
    pip install pandas geopandas networkx matplotlib
+   pip install -r requirements.txt
    ```
 3. Certifique-se de que os arquivos de dados estão no local correto.
 4. Execute o código Python para visualizar os mapas do sistema de transporte.
